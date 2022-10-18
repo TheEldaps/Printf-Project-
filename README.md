@@ -1,4 +1,4 @@
-Creating Printf Function
-collaborators
+Printf project
+Collaborators include
 Ogbonna Merit
 Adeleke James 
